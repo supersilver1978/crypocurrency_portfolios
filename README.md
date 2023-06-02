@@ -1,6 +1,7 @@
 # Cryptocurrency Clustering
 
 Here we will use unsupervised learning models to find alternative and hopefully optimized methods of assembling cryptocurrency portfolios. We will use the elbow method of finding the optimal number of clusters and PCA (principal component analysis) to find the best methods for grouping.
+
 ---
 
 ## *Technologies*
