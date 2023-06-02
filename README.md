@@ -41,7 +41,10 @@ https://user-images.githubusercontent.com/126728866/236705592-e809bf6a-a059-4d10
 <img width="350" alt="run preview" src=https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/run.png>
 
   ### *Final Product*
-  Our goal is ultimately to understand the performance of the portfolio over time. This particular portfolio of 4 stocks returned 441% in 4 years - an outstanding performance.
+  Our goal is to deliver the optimal portfolio of crypto currencies and in doing so we utilized the elbow method to determine optimal groupings and then KMeans to predict price changes utilizing unsupervised learning statistical models with and without principal component analysis.
+  
+  <u>The Elbow method</u>
+  Both 
   
   <img width="590" alt="Screenshot 2023-05-07 153634" src="https://user-images.githubusercontent.com/126728866/236706293-8199d278-0bf2-4083-b004-50dbc14bac4f.png">
 
