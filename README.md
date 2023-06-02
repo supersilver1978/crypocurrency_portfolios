@@ -39,6 +39,7 @@ The Elbow method: As you can see below, both sets of data are optimized by using
   <img width="680" alt="elbow_curves" src="https://github.com/supersilver1978/crypocurrency_portfolios/assets/126728866/49cbed57-03ca-4f56-898b-5a21288247b8">
 
 Original data versus PCA clusters: The charts below demonstrate the difference in the distributions. The PCA clusters have less variance than the original data.
+
 <img width="590" alt="original_clusters" src="https://github.com/supersilver1978/crypocurrency_portfolios/assets/126728866/d0ef8fc5-8905-4a33-98b7-4e43bad528c3">
 <img width="633" alt="PCA_clusters" src="https://github.com/supersilver1978/crypocurrency_portfolios/assets/126728866/d70ccce0-457d-4cf5-b189-0a771c7e926c">
 
