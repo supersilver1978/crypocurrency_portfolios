@@ -26,15 +26,6 @@ Here we will use unsupervised learning models to find alternative and hopefully 
 
 ## *Usage*
 
-https://user-images.githubusercontent.com/126728866/236705592-e809bf6a-a059-4d10-bf35-c70c4d0fbca8.mp4
-
-**Web Usage**
-1. In your terminal, cd to the directory where this repository was cloned/downloaded 
-2. Enter 'pwd' - displays the complete path to the current directory
-3. Copy path, enter 'voila', then paste and enter path
-4. After the web page screen loads, select file 'etf_analyzer.ipynb'
-5. Voilà! You are now on the main application web page
-
 **Jupyter Lab**
 - Running the code can be done in one of two ways:
     1. You can click the "play" button at the very top of the notebook.
@@ -44,10 +35,14 @@ https://user-images.githubusercontent.com/126728866/236705592-e809bf6a-a059-4d10
   ### *Final Product*
   Our goal is to deliver the optimal portfolio of crypto currencies and in doing so we utilized the elbow method to determine optimal groupings and then KMeans to predict price changes utilizing unsupervised learning statistical models with and without principal component analysis.
   
-  <u>The Elbow method</u>
-  Both 
+The Elbow method: As you can see below, both sets of data are optimized by using 4 clusters.
+  <img width="680" alt="elbow_curves" src="https://github.com/supersilver1978/crypocurrency_portfolios/assets/126728866/49cbed57-03ca-4f56-898b-5a21288247b8">
+
+Original data versus PCA clusters: The charts below demonstrate the difference in the distributions. The PCA clusters have less variance than the original data.
+<img width="590" alt="original_clusters" src="https://github.com/supersilver1978/crypocurrency_portfolios/assets/126728866/d0ef8fc5-8905-4a33-98b7-4e43bad528c3">
+<img width="633" alt="PCA_clusters" src="https://github.com/supersilver1978/crypocurrency_portfolios/assets/126728866/d70ccce0-457d-4cf5-b189-0a771c7e926c">
+
   
-  <img width="590" alt="Screenshot 2023-05-07 153634" src="https://user-images.githubusercontent.com/126728866/236706293-8199d278-0bf2-4083-b004-50dbc14bac4f.png">
 
 ## *Contributor*
 
